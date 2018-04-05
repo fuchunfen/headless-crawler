@@ -1,0 +1,22 @@
+{
+  "name": "headless-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuchunfen/headless-crawler.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fuchunfen/headless-crawler/issues"
+  },
+  "homepage": "https://github.com/fuchunfen/headless-crawler#readme",
+  "dependencies": {
+    "puppeteer": "^1.2.0"
+  }
+}
